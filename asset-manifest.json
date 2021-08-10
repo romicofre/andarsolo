@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/andarsolo/static/css/main.a617e044.chunk.css",
-    "main.js": "/andarsolo/static/js/main.8bdc4993.chunk.js",
-    "main.js.map": "/andarsolo/static/js/main.8bdc4993.chunk.js.map",
+    "main.js": "/andarsolo/static/js/main.f197a02c.chunk.js",
+    "main.js.map": "/andarsolo/static/js/main.f197a02c.chunk.js.map",
     "runtime-main.js": "/andarsolo/static/js/runtime-main.31382c02.js",
     "runtime-main.js.map": "/andarsolo/static/js/runtime-main.31382c02.js.map",
-    "static/js/2.fbb52e60.chunk.js": "/andarsolo/static/js/2.fbb52e60.chunk.js",
-    "static/js/2.fbb52e60.chunk.js.map": "/andarsolo/static/js/2.fbb52e60.chunk.js.map",
+    "static/js/2.881ee087.chunk.js": "/andarsolo/static/js/2.881ee087.chunk.js",
+    "static/js/2.881ee087.chunk.js.map": "/andarsolo/static/js/2.881ee087.chunk.js.map",
     "static/js/3.a5bc9925.chunk.js": "/andarsolo/static/js/3.a5bc9925.chunk.js",
     "static/js/3.a5bc9925.chunk.js.map": "/andarsolo/static/js/3.a5bc9925.chunk.js.map",
     "index.html": "/andarsolo/index.html",
     "static/css/main.a617e044.chunk.css.map": "/andarsolo/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.fbb52e60.chunk.js.LICENSE.txt": "/andarsolo/static/js/2.fbb52e60.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/andarsolo/static/media/logo.6ce24c58.svg"
+    "static/js/2.881ee087.chunk.js.LICENSE.txt": "/andarsolo/static/js/2.881ee087.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.31382c02.js",
-    "static/js/2.fbb52e60.chunk.js",
+    "static/js/2.881ee087.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.8bdc4993.chunk.js"
+    "static/js/main.f197a02c.chunk.js"
   ]
 }
