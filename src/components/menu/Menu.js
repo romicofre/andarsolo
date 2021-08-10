@@ -1,8 +1,18 @@
 import './Menu.css'
+import {BottomNavigation, BottomNavigationAction} from "@material-ui/core";
 
 
-function  Menu(){
+function  MainMenu(){
+  return(
 
+    <BottomNavigation
+      showLabels
+    >
+      <BottomNavigationAction label="Apps"  />
+      <BottomNavigationAction label="Viajes"  />
+      <BottomNavigationAction label="Comida" />
+    </BottomNavigation>
+  )
 }
 
-export default Menu;
+export default MainMenu;
